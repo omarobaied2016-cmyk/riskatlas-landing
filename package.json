@@ -1,0 +1,12 @@
+{
+  "name": "riskatlas-landing",
+  "version": "1.0.0",
+  "description": "RiskAtlas AI marketing landing page",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
